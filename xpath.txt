@@ -1,0 +1,4 @@
+Links = //h2[@class="discover__headline"]/a/@href
+Titulo = //h1[@class="DefaultTitle"]/text()
+Resumen = //h2[@class="DefaultSubtitle"]/text()
+Cuerpo = //section[@class="section-visibility"]/p/text()
